@@ -1,0 +1,27 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color:blanchedalmond;
+    color:crimson;
+}
+.container{
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-basis: 20%;
+}
+.container div{
+    margin: 30px;
+    border-style: solid;
+    border-color:black;
+    width: 250px;
+    padding: 5px;
+    transition: background-color 0.3s ease
+}
+.container div:hover{
+    background-color: burlywood;
+    color: black;
+    cursor: pointer;
+}
