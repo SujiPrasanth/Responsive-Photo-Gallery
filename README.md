@@ -10,7 +10,7 @@ A simple **HTML and CSS** project to create a **responsive Photo gallery**. The 
 - Easy to customize and extend
 - Works across modern browsers
 
-## Demo
+## Output
 
 ![Output1](Demoimage/Output1.png)  
 ![Output1](Demoimage/Output2.png)  
