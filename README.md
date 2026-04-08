@@ -23,4 +23,4 @@ Here are the screenshots of my project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/responsive-image-gallery.git
+   git clone https://github.com/SujiPrasanth/Responsive-Photo-Gallery
