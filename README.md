@@ -14,7 +14,8 @@ A simple **HTML and CSS** project to create a **responsive Photo gallery**. The 
 
 Here are the screenshots of my project:
 
-![Output1](Demoimage/Output1.png)  
+![Output1](Demoimage/Output1.png) 
+
 ![Output1](Demoimage/Output2.png)  
 
 
